@@ -1,3 +1,7 @@
+/tmp
+.project
+.texlipse
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
